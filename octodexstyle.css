@@ -1,0 +1,36 @@
+*{
+    display: block;
+    justify-content: space-around;
+    align-items: center;
+}
+img{
+    height: 200px;
+}
+.header{
+    background-color: lightskyblue;
+    display: flex;
+    padding: 2%;
+    margin:1%;
+    justify-content: space-around;
+    height: 10%;
+    width: 40%;
+}
+.body{
+    display: flex;
+    justify-content: space-around;
+    height: 10%;
+    width: 40%;
+    background-color:indianred;
+    padding: 2%;
+    margin:1%;
+}
+.footer{
+    justify-content: space-around;
+    height: 10%;
+    width: 40%;
+    background-color: lightslategrey;
+    display: flex;
+    justify-content: space-around;
+    padding: 2%;
+    margin:1%;
+}
